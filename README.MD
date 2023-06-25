@@ -2,9 +2,7 @@
 <pre>Hi, I'm a front end developer and an amateur photographer.</pre>
 
 ### 🌱 My skills.
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nextjs,vue,pug,sass,html" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=css,ts,js,github,vercel,firebase" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode,figma,ai,ps,xd,discord" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=react,nextjs,vue,pug,sass,html,css,ts,js,github,vercel,firebase,vscode,figma,ai,ps,xd,discord" />
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poetrainy&layout=compact&show_icons=true" />
 
 ## 📨 Please contact me.
