@@ -1,5 +1,5 @@
 ## Hi🤟
-<pre>Hi, I'm a front end developer and an amateur photographer.</pre>
+I'm a front end developer and an amateur photographer.
 
 ### 🌱 My skills.
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=react,nextjs,vue,pug,sass,html,css,ts,js,github,vercel,firebase,vscode,figma,ai,ps,xd,discord" />
