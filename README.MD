@@ -9,4 +9,4 @@ I'm a front end developer and an amateur photographer.
 
 ### 📨 Please contact me.
 
-**[Portfolio - Web](https://poetrainy.vercel.app/)** / **[Portfolio - Photography](https://www.philosophia000.xyz/)**
+**[Portfolio - Web](https://poetrainy.vercel.app/)** / **[Portfolio - Photography](https://philosophia000.vercel.app/)**
