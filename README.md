@@ -13,13 +13,19 @@
       <tr>
         <td>🛠 Develop</td>
         <td>
-          <img src="https://skillicons.dev/icons?i=react,nextjs,vue,lit,tailwind" alt="React, Next.js, Vue, Lit, Tailwind CSS" />
+          <img src="https://skillicons.dev/icons?i=react" alt="React" />
+          <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+          <img src="https://skillicons.dev/icons?i=vue" alt="Vue" />
+          <img src="https://skillicons.dev/icons?i=lit" alt="Lit" />
+          <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
         </td>
       </tr>
       <tr>
         <td>🎨 Design</td>
         <td>
-          <img src="https://skillicons.dev/icons?i=ai,xd,ps" alt="Adobe Illustrator, Adobe XD, Adobe Photoshop" />
+          <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" />
+          <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" />
+          <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" />
         </td>
       </tr>
       <tr>
