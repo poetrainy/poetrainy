@@ -5,7 +5,7 @@
   </div>
   <br>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=61DBFB&background=1A1E25&vCenter=true&width=400&lines=Other+tech+stacks%3A" alt="Other tech stacks:" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=61DBFB&background=1A1E25&vCenter=true&width=392&lines=Other+tech+stacks%3A" alt="Other tech stacks:" />
   <table>
     <tr>
       <td align="center">🛠 Develop</td>
@@ -45,6 +45,7 @@
   <hr>
   <br>
   <em>I look forward to solving great challenges together with you. ❤️‍🔥</em>
+  <br>
   <br>
   <br>
   <a href="https://poetrainy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-61DBFB?style=for-the-badge&logo=Zsh&logoColor=1A1E25" alt="MY PORTFOLIO" /></a>
