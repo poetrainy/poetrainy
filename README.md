@@ -17,6 +17,7 @@
           <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
           <img src="https://skillicons.dev/icons?i=vue" alt="Vue" />
           <img src="https://skillicons.dev/icons?i=lit" alt="Lit" />
+          <img src="./icons/web-components.png" alt="Web Components" height="48" />
           <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
         </td>
       </tr>
@@ -31,7 +32,9 @@
       <tr>
         <td>⚡ Tool</td>
         <td>
-          <img src="https://skillicons.dev/icons?i=git" alt="Git" /> <img src="./icons/jira.png" alt="Jira" height="48" /> <img src="./icons/slack.png" alt="Slack" height="48" />
+          <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+          <img src="./icons/jira.png" alt="Jira" height="48" />
+          <img src="./icons/slack.png" alt="Slack" height="48" />
         </td>
       </tr>
     </table>
