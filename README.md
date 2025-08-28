@@ -30,7 +30,6 @@
       </tr>
     </table>
     <br>
-    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poetrainy&layout=compact&theme=tokyonight" alt="Most languages" />
   </div>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&reversal=true&section=footer" alt="" />
