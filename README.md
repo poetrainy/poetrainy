@@ -19,13 +19,13 @@
       <tr>
         <td>🎨 Design</td>
         <td>
-          <img src="https://skillicons.dev/icons?i=ai,xd" alt="Adobe Illustrator, Adobe XD" />
+          <img src="https://skillicons.dev/icons?i=ai,xd,ps" alt="Adobe Illustrator, Adobe XD, Adobe Photoshop" />
         </td>
       </tr>
       <tr>
         <td>⚡ Tool</td>
         <td>
-          <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+          <img src="https://skillicons.dev/icons?i=git" alt="Git" /> <img src="./icons/jira.png" alt="Jira" height="48" /> <img src="./icons/slack.png" alt="Slack" height="48" />
         </td>
       </tr>
     </table>
