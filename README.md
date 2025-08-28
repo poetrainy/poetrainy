@@ -39,7 +39,7 @@
   </table>
   <br>
   <div>
-    <img src="https://streak-stats.demolab.com?user=poetrainy&theme=react&hide_border=true&card_width=240&card_height=200&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" height="176" />
+    <img src="https://streak-stats.demolab.com?user=poetrainy&theme=react&hide_border=true&card_width=240&card_height=176&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" height="176" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poetrainy&layout=compact&hide_border=true&hide=dockerfile&theme=react" alt="Most languages" height="176" />
   </div>
   <br>
