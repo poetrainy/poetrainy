@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Hi,%20I'm%20the%20Design%20Engineer.&reversal=true&section=header&animation=twinkling&fontAlignY=50&textBg=false&fontAlign=50&fontSize=32" alt="I'm the design engineer" />
   <br>
+  <br>
   <div>
     <img src="https://skillicons.dev/icons?i=ts" width="96" height="96" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=figma" width="96" height="96" alt="Figma" />
   </div>
