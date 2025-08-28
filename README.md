@@ -47,8 +47,8 @@
   <em>I look forward to solving great challenges together with you. ❤️‍🔥</em>
   <br>
   <br>
-  <br>
   <a href="https://poetrainy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-61DBFB?style=for-the-badge&logo=Zsh&logoColor=1A1E25" alt="MY PORTFOLIO" /></a>
+  <br>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&reversal=true&section=footer" alt="" />
 </div>
