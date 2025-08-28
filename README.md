@@ -5,7 +5,7 @@
   </div>
   <br>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=61DBFB&background=1A1E25&vCenter=true&width=392&lines=Other+tech+stacks%3A" alt="Other tech stacks:" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=61DBFB&background=1A1E25&vCenter=true&width=400&lines=Other+tech+stacks%3A" alt="Other tech stacks:" />
   <table>
     <tr>
       <td align="center">🛠 Develop</td>
