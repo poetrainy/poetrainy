@@ -50,8 +50,6 @@
   <br>
   <br>
   <a href="https://poetrainy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%20Portfolio-61DBFB?style=for-the-badge&logo=Zsh&logoColor=1A1E25" alt="My Portfolio" /></a>
-  <a href="https://zenn.dev/poetrainy" target="_blank"><img src="https://img.shields.io/badge/Zenn-3ea8ff?style=for-the-badge&logo=Zenn&logoColor=white" alt="Zenn" /></a>
-  <a href="https://note.com/poetrainy" target="_blank"><img src="https://img.shields.io/badge/Note-1d1d1d?style=for-the-badge&logo=Note&logoColor=white" alt="note" /></a>
   <br>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&reversal=true&section=footer" alt="" />
