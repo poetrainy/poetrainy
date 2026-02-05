@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Hi,%20I'm%20the%20UX%20Engineer.&reversal=true&section=header&animation=twinkling&fontAlignY=50&textBg=false&fontAlign=50&fontSize=32" alt="Hi, I'm the UX engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Hi,%20I'm%20the%20Design%20Engineer.&reversal=true&section=header&animation=twinkling&fontAlignY=50&textBg=false&fontAlign=50&fontSize=32" alt="Hi, I'm the Design engineer" />
   <br>
   <br>
   <div>
